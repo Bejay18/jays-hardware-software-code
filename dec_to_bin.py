@@ -1,6 +1,6 @@
 def decimal_to_binary(number):
     result = ""
-    number = int(number)
+    number = int(number):
     while number > 0:
         remander = number % 2
         number = number // 2
